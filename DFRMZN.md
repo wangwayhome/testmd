@@ -1,6 +1,55 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [单反入门指南](#%E5%8D%95%E5%8F%8D%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97)
+  - [1.器械选择](#1%E5%99%A8%E6%A2%B0%E9%80%89%E6%8B%A9)
+    - [佳能和尼康怎么选？](#%E4%BD%B3%E8%83%BD%E5%92%8C%E5%B0%BC%E5%BA%B7%E6%80%8E%E4%B9%88%E9%80%89)
+      - [简单的归纳：](#%E7%AE%80%E5%8D%95%E7%9A%84%E5%BD%92%E7%BA%B3)
+      - [杂七杂八](#%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB)
+    - [镜头初探](#%E9%95%9C%E5%A4%B4%E5%88%9D%E6%8E%A2)
+  - [2.相机基本持握方式](#2%E7%9B%B8%E6%9C%BA%E5%9F%BA%E6%9C%AC%E6%8C%81%E6%8F%A1%E6%96%B9%E5%BC%8F)
+    - [基本的握持方式](#%E5%9F%BA%E6%9C%AC%E7%9A%84%E6%8F%A1%E6%8C%81%E6%96%B9%E5%BC%8F)
+    - [使用取景器的方法](#%E4%BD%BF%E7%94%A8%E5%8F%96%E6%99%AF%E5%99%A8%E7%9A%84%E6%96%B9%E6%B3%95)
+    - [拍摄姿势](#%E6%8B%8D%E6%91%84%E5%A7%BF%E5%8A%BF)
+      - [站姿](#%E7%AB%99%E5%A7%BF)
+      - [蹲姿](#%E8%B9%B2%E5%A7%BF)
+      - [竖构图](#%E7%AB%96%E6%9E%84%E5%9B%BE)
+      - [使用实时显示拍摄](#%E4%BD%BF%E7%94%A8%E5%AE%9E%E6%97%B6%E6%98%BE%E7%A4%BA%E6%8B%8D%E6%91%84)
+  - [3.构图基本知识](#3%E6%9E%84%E5%9B%BE%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AF%86)
+    - [被摄体的位置](#%E8%A2%AB%E6%91%84%E4%BD%93%E7%9A%84%E4%BD%8D%E7%BD%AE)
+      - [选择不同的取景高度，让你的照片与众不同](#%E9%80%89%E6%8B%A9%E4%B8%8D%E5%90%8C%E7%9A%84%E5%8F%96%E6%99%AF%E9%AB%98%E5%BA%A6%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%85%A7%E7%89%87%E4%B8%8E%E4%BC%97%E4%B8%8D%E5%90%8C)
+    - [画面的横竖](#%E7%94%BB%E9%9D%A2%E7%9A%84%E6%A8%AA%E7%AB%96)
+      - [可表现宽阔感的横向构图](#%E5%8F%AF%E8%A1%A8%E7%8E%B0%E5%AE%BD%E9%98%94%E6%84%9F%E7%9A%84%E6%A8%AA%E5%90%91%E6%9E%84%E5%9B%BE)
+      - [可表现纵深感的纵向构图](#%E5%8F%AF%E8%A1%A8%E7%8E%B0%E7%BA%B5%E6%B7%B1%E6%84%9F%E7%9A%84%E7%BA%B5%E5%90%91%E6%9E%84%E5%9B%BE)
+    - [收入画面的范围大小](#%E6%94%B6%E5%85%A5%E7%94%BB%E9%9D%A2%E7%9A%84%E8%8C%83%E5%9B%B4%E5%A4%A7%E5%B0%8F)
+        - [1. 横向构图拍下宽阔范围](#1-%E6%A8%AA%E5%90%91%E6%9E%84%E5%9B%BE%E6%8B%8D%E4%B8%8B%E5%AE%BD%E9%98%94%E8%8C%83%E5%9B%B4)
+        - [2. 近一点](#2-%E8%BF%91%E4%B8%80%E7%82%B9)
+  - [4. 如何拍好人像](#4-%E5%A6%82%E4%BD%95%E6%8B%8D%E5%A5%BD%E4%BA%BA%E5%83%8F)
+    - [人像模式 （转盘拨到人像模式 ，全自动处理）](#%E4%BA%BA%E5%83%8F%E6%A8%A1%E5%BC%8F-%E8%BD%AC%E7%9B%98%E6%8B%A8%E5%88%B0%E4%BA%BA%E5%83%8F%E6%A8%A1%E5%BC%8F-%E5%85%A8%E8%87%AA%E5%8A%A8%E5%A4%84%E7%90%86)
+    - [灵活运用曝光补偿](#%E7%81%B5%E6%B4%BB%E8%BF%90%E7%94%A8%E6%9B%9D%E5%85%89%E8%A1%A5%E5%81%BF)
+      - [使人物更加明亮、美丽——正曝光补偿](#%E4%BD%BF%E4%BA%BA%E7%89%A9%E6%9B%B4%E5%8A%A0%E6%98%8E%E4%BA%AE%E7%BE%8E%E4%B8%BD%E6%AD%A3%E6%9B%9D%E5%85%89%E8%A1%A5%E5%81%BF)
+      - [问题一：那么曝光补偿 和 亮度调整 有啥区别呢？](#%E9%97%AE%E9%A2%98%E4%B8%80%E9%82%A3%E4%B9%88%E6%9B%9D%E5%85%89%E8%A1%A5%E5%81%BF-%E5%92%8C-%E4%BA%AE%E5%BA%A6%E8%B0%83%E6%95%B4-%E6%9C%89%E5%95%A5%E5%8C%BA%E5%88%AB%E5%91%A2)
+      - [问题二：万一不小心不是故意的拍出第一张图片那样的效果怎木办？](#%E9%97%AE%E9%A2%98%E4%BA%8C%E4%B8%87%E4%B8%80%E4%B8%8D%E5%B0%8F%E5%BF%83%E4%B8%8D%E6%98%AF%E6%95%85%E6%84%8F%E7%9A%84%E6%8B%8D%E5%87%BA%E7%AC%AC%E4%B8%80%E5%BC%A0%E5%9B%BE%E7%89%87%E9%82%A3%E6%A0%B7%E7%9A%84%E6%95%88%E6%9E%9C%E6%80%8E%E6%9C%A8%E5%8A%9E)
+    - [了解测光模式的区别](#%E4%BA%86%E8%A7%A3%E6%B5%8B%E5%85%89%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%8C%BA%E5%88%AB)
+      - [根据测光范围大小不同分为多种模式](#%E6%A0%B9%E6%8D%AE%E6%B5%8B%E5%85%89%E8%8C%83%E5%9B%B4%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C%E5%88%86%E4%B8%BA%E5%A4%9A%E7%A7%8D%E6%A8%A1%E5%BC%8F)
+    - [HDR模式（骨灰级玩家）](#hdr%E6%A8%A1%E5%BC%8F%E9%AA%A8%E7%81%B0%E7%BA%A7%E7%8E%A9%E5%AE%B6)
+    - [番外：人像镜头篇](#%E7%95%AA%E5%A4%96%E4%BA%BA%E5%83%8F%E9%95%9C%E5%A4%B4%E7%AF%87)
+      - [效果图](#%E6%95%88%E6%9E%9C%E5%9B%BE)
+      - [Canon/佳能 EF 50mm f/1.8 STM标准定焦镜头](#canon%E4%BD%B3%E8%83%BD-ef-50mm-f18-stm%E6%A0%87%E5%87%86%E5%AE%9A%E7%84%A6%E9%95%9C%E5%A4%B4)
+      - [Canon/佳能 EF 24-70mm f/2.8L II USM 标准变焦单反镜头](#canon%E4%BD%B3%E8%83%BD-ef-24-70mm-f28l-ii-usm-%E6%A0%87%E5%87%86%E5%8F%98%E7%84%A6%E5%8D%95%E5%8F%8D%E9%95%9C%E5%A4%B4)
+      - [Canon/佳能 EF 35mm f/1.4L II USM 红圈定焦镜头](#canon%E4%BD%B3%E8%83%BD-ef-35mm-f14l-ii-usm-%E7%BA%A2%E5%9C%88%E5%AE%9A%E7%84%A6%E9%95%9C%E5%A4%B4)
+      - [Canon/佳能 EF 85mm f/1.2L II USM 红圈定焦镜头](#canon%E4%BD%B3%E8%83%BD-ef-85mm-f12l-ii-usm-%E7%BA%A2%E5%9C%88%E5%AE%9A%E7%84%A6%E9%95%9C%E5%A4%B4)
+  - [5. 如何拍好风景](#5-%E5%A6%82%E4%BD%95%E6%8B%8D%E5%A5%BD%E9%A3%8E%E6%99%AF)
+    - [1. HDR](#1-hdr)
+    - [2.夜景拍摄](#2%E5%A4%9C%E6%99%AF%E6%8B%8D%E6%91%84)
+  - [注解](#%E6%B3%A8%E8%A7%A3)
+- [未完待续～～～](#%E6%9C%AA%E5%AE%8C%E5%BE%85%E7%BB%AD)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 单反入门指南
 
-[TOC]
 
 
 
@@ -30,6 +79,10 @@
 
 ![](http://ww3.sinaimg.cn/large/005wPWANjw1fadtng26qdj30m80ligoz.jpg)
 
+------
+
+
+
 ### 镜头初探
 
 长者不细说了。想了解更多人生哲理请移步这篇文章：
@@ -53,6 +106,8 @@
 ![210mm f/6.3](http://ww1.sinaimg.cn/large/627785e1jw1fbgyiax4wlj20wa19dn4y.jpg)
 
 
+
+------
 
 
 
@@ -105,6 +160,14 @@
 
 
 其他关于相机使用方面的基础问题可以点击 [数码单反相机的基础知识拍摄开始前的相机设置及准备工作](http://www.canon.com.cn/specialsite/ds_abcbook/approach.html)
+
+
+
+
+
+------
+
+
 
 ## 3.构图基本知识
 
@@ -174,6 +237,12 @@
 ##### 2. 近一点
 
    ![](http://www.canon.com.cn/specialsite/ds_abcbook/image/beginner03_05.jpg)
+
+
+
+
+
+------
 
 
 
@@ -255,7 +324,11 @@ ps：有的相机点测光功能比较单一（比如4年前的SONY微单NEX-5R�
 
    [附：HDR 佳能官方介绍](http://www.canon.com.cn/specialsite/eos5dmk3/hdr07.html)
 
-   ​
+  
+
+------
+
+ 
 
 ### 番外：人像镜头篇
 
@@ -317,7 +390,11 @@ ps：有的相机点测光功能比较单一（比如4年前的SONY微单NEX-5R�
 
 
 
-#### Canon/佳能 EF 85mm f/1.2L II USM 红圈定焦镜头  人像王！
+#### Canon/佳能 EF 85mm f/1.2L II USM 红圈定焦镜头  
+
+**人像终极BOSS登场，人像王！**
+
+![](http://wx4.sinaimg.cn/large/005wPWANly1fbh9xcztg9j309q08ymx8.jpg)
 
 **中距远摄镜头，人像摄影的好选择**
 
@@ -329,13 +406,33 @@ ps：有的相机点测光功能比较单一（比如4年前的SONY微单NEX-5R�
 
 
 
+------
+
+
+
+
+
+![](https://ww1.sinaimg.cn/large/006tKfTcgy1fbuqsssb3lj30c8096t9e.jpg)
+
+**ps**：说了**这么多**的镜头，感叹买镜头犹如**吸毒**，越陷越深。。。上图为某**F**姓男子。
+
+![](https://ww4.sinaimg.cn/large/006tNbRwgy1fbuquyybmhj307505g0st.jpg)
+
+
+
+
+
+------
+
+
+
    ##  5. 如何拍好风景
 
    ​
 
 ### 1. HDR
 
-   比如下面这张 游泰晤士河的时候拍的，但是讷，建筑物和天空 都要有，怎木办！？
+   比如下面这张 游**泰晤士河**的时候拍的，但是讷，**建筑**物和**天空**都要有，**怎木办**！？
    ![未开HDR](https://ww4.sinaimg.cn/large/006y8lVagw1fbgrqvwfqvj31kw11r4qp.jpg)
 
    这时候拍完心里第一反应。
@@ -343,7 +440,7 @@ ps：有的相机点测光功能比较单一（比如4年前的SONY微单NEX-5R�
 
    ​
 
-   ​
+   
 
    这张是索尼大法 开启HDR 后。嘿嘿。妙手回春。。
 
@@ -352,6 +449,8 @@ ps：有的相机点测光功能比较单一（比如4年前的SONY微单NEX-5R�
 
 
 [附：HDR 佳能官方介绍](http://www.canon.com.cn/specialsite/eos5dmk3/hdr07.html)
+
+------
 
 ### 2.夜景拍摄
 
@@ -366,6 +465,14 @@ ps：有的相机点测光功能比较单一（比如4年前的SONY微单NEX-5R�
 3、快门速度越慢，图片越亮。
 
 4、关闭ISO自动，可以调低点，因为越高噪点越多。
+
+
+
+
+
+
+
+------
 
 
 
