@@ -16,7 +16,6 @@
 
 1. 人像选佳能，原因柔；
 2. 国家地理大片选尼康，原因锐；
-3. 待续；
 
 详细更完整的信息大家可以去看知乎上的这篇[尼康（Nikon）和佳能（Canon）的单反相机各有什么优缺点/特色？](https://www.zhihu.com/question/19728704/answer/19845603)  
 
@@ -39,6 +38,8 @@
 长者不细说了。想了解更多人生哲理请移步这篇文章：
 
 [点我 《镜头的结构和原理》](http://www.canon.com.cn/specialsite/ds_abcbook/beginner02.html)
+
+[镜头名解读](http://www.canon.com.cn/specialsite/ds_abcbook/lens03.html)
 
 归纳一句话就是：**光圈越大 虚化效果越好，焦距越大拍得越远**。
 
@@ -374,9 +375,11 @@ ps：有的相机点测光功能比较单一（比如4年前的SONY微单NEX-5R�
 
 
 
+#### 佳能（Canon） EF 70-200mm f/2.8L IS II USM 镜头
 
+可以变焦，画质超好，恒定2.8情况下，各个焦段画面都很锐，效果很好。
 
-
+![](https://ww1.sinaimg.cn/large/006tNc79gy1fc312av5jbj31kw0v3aj5.jpg)
 
 
 
@@ -420,7 +423,7 @@ ps：有的相机点测光功能比较单一（比如4年前的SONY微单NEX-5R�
 
 4、关闭ISO自动，可以调低点，因为越高噪点越多。
 
-
+[佳能官网 夜景拍摄详细步骤教程等](http://www.canon.com.cn/specialsite/nightscape/index.html)
 
 
 
@@ -474,6 +477,22 @@ ps：有的相机点测光功能比较单一（比如4年前的SONY微单NEX-5R�
 
 
 
-# 未完待续～～～
+# Snapseed(番外篇2)
+
+[在图片上选择性地涂刷工具或滤镜](javascript:;)
+
+利用滤镜组合画笔，工具或滤镜可以仅应用于图片的某些区域，而不是整张图片。此过程称为遮罩，大大扩展了每款工具和滤镜的编辑功能，可实现更高级的移动工作流。
+
+- 首先，以常规方式将工具或滤镜应用于整张图片。
+- 点按 ![img](https://lh3.ggpht.com/ouEGBxQ1oY1TvpQ7lH9iR-cY2yYK0ErPIZ2oXe_M8Pa6v6U_rZbF2tHy_UDh=w20)，打开滤镜组合。
+- 点按以选择需要遮罩的工具或滤镜，然后点按箭头，打开编辑菜单。
+- 点按 ![img](https://storage.googleapis.com/support-kms-prod/1C33363DB2C632061017D13155537EDFDCA3)，访问滤镜组合画笔。
+- 点按 ![img](https://lh4.ggpht.com/Nq_L0KeG3RI2AdyIfMTCjWxeMN3FAGyYsonhrMaUuLZMInz-6T3R6kqekqjY=w27) 或 ![img](https://lh5.ggpht.com/K26Ch8_j0_5QM5aCM5TFPizJrMiehpZHmOiYlPG0iQLYR_qECdKuzfmQIPsg=w27)，更改滤镜组合画笔的不透明度。值为 0 时，滤镜组合画笔相当于橡皮擦的功能，可移除之前的画笔笔触。
+- 与在画笔工具中一样，单指尖变为画笔形状。通过放大和缩小图片更改滤镜组合画笔的大小。
+- 点按 ![img](https://lh3.ggpht.com/0yq324VXGuOc5CpEqT7ZXZmMazZyhjP-vq0vL3qokF9iWJ7rtSeKCSTrUZpegJgmkfs=w24)，以橙色显示画笔笔触。
+- 点按 ![img](https://lh3.ggpht.com/d2_S00GEXihaD8pzEPtdQ5Qy6II6Axz3HUi-pEOewr6Mj8sIrlnTE92jfAtocbB_b3sG=w27)，应用遮罩并返回到滤镜组合。
+- 要重新应用后续编辑效果，点按滤镜组合中最顶层的工具或滤镜。
+
+
 
 ![](https://ww4.sinaimg.cn/large/006y8lVagw1fbgv4o7yfij30j60r5gob.jpg)
